@@ -1,3 +1,6 @@
+// I have added an option to let the user decide their own prompt to write to the journal 
+// and I have added an else statement in case the user chooses an invalid option.
+
 using System;
 
 class Program
