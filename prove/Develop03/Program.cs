@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string filePath = "C:/Users/Pedro Castro/Desktop/BYU/CSE 210/cse210-projects/prove/Develop03/t_kjv.json";
+        string filePath = "t_kjv.json";
 
         string jsonContent = File.ReadAllText(filePath);
 
