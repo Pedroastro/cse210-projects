@@ -1,7 +1,7 @@
+// To exceed the requirements I have added the functionality of the user choosing any scripture from the King James Bible.
 using System;
 using System.Globalization;
 using System.Text.Json;
-
 
 class Program
 {
