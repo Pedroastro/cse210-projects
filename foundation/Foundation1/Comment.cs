@@ -8,4 +8,9 @@ public class Comment
         _username = username;
         _text = text;
     }
+
+    public string GetCommentInformation()
+    {
+        return $"{_username} commented: {_text}";
+    }
 }
