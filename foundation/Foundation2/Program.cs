@@ -27,6 +27,7 @@ class Program
         Console.Write($"Packing Label:\n{order1.GetPackingLabel()}");
         Console.Write($"Shipping Label:\n{order1.GetShippingLabel()}\n");
         Console.WriteLine($"Total Price: {order1.CalculateTotalPrice()}");
+        Console.WriteLine();
 
         Console.Write($"Packing Label:\n{order2.GetPackingLabel()}");
         Console.Write($"Shipping Label:\n{order2.GetShippingLabel()}\n");
