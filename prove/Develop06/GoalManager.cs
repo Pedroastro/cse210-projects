@@ -13,7 +13,7 @@ public class GoalManager
 
     public void Start()
     {
-        Console.WriteLine("\n=== Eternal Quest Program ===");
+        Console.WriteLine("\n--- Eternal Quest Program ---");
         bool running = true;
         while (running)
         {
